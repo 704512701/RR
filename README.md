@@ -8,9 +8,9 @@ This project is an Assignment for "Reproducible Research" course of University o
 
 # Authors
 
--   [Sun Yufei](g.stella@student.uw.edu.pl)
--   [Zhao Zhe](w.pan2@student.uw.edu.pl)
--   [Zhao Zhe](w.pan2@student.uw.edu.pl)
+-   [Sun Yufei]
+-   [Zhao Zhe]
+-   [Anvesh Kotturi]
 
 # About our Assigment
 
