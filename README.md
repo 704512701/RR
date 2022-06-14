@@ -14,14 +14,14 @@ This project is an Assignment for "Reproducible Research" course of University o
 
 # About our Assignment
 
-we decided to divide our Assigment in two parts:
+We decided to divide our Assigment in two parts:
 
 -   the presentation written in PDF file that we'll present in class.
 -   The report written in PDF file, where it's possible to find more information about our work.
 
 # Reproducible Envoirment
 
-to re-run this project it's required:
+To re-run this project it's required:
 
 -   `Python version 3.10.5`
 -   `Jupyter notebook python 6.3.0`
