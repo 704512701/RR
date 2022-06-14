@@ -12,7 +12,7 @@ This project is an Assignment for "Reproducible Research" course of University o
 -   Zhao Zhe
 -   Anvesh Kotturi
 
-# About our Assigment
+# About our Assignment
 
 we decided to divide our Assigment in two parts:
 
